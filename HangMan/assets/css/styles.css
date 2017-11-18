@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+}
+
+header {
+  background-color: blue;
+  width:960px;
+  height: 250px;
+  margin-left: 75px;
+
+}
+
+#container {
+  width:640px;
+  height: 100%;
+
+}
+
+
+
+
+
+.wrapper {
+ 	width:100%;
+ 	max-width: 960px;
+ 	margin: 0 auto;
+ 	clear: both;
+ 	overflow:auto;
+}
+
+
+
+.game{
+	width: 75%;
+	margin: 0 auto;
+	background-color: black;
+	text-align: center;
+}
